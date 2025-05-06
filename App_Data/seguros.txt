@@ -1,0 +1,6 @@
+alejo;Seguro de Vida;;;;$50.000;Inactivo;5/05/2025 3:12:37 p. m.
+alejo;Vida;Alejandro suarez;1000536051;3003912178;$50.000;Activo;5/05/2025 3:23:39 p. m.
+simon;SOAT;Simon Restrepo;1000536052;3244698439;$180.000;Activo;5/05/2025 3:39:09 p. m.
+alejo;Hogar;Pedro perez;51446464;654455;$75.000;Activo;5/05/2025 3:55:00 p. m.
+kk;Hogar;Pedro perez;51446464;3003912178;$75.000;Inactivo;5/05/2025 3:56:28 p. m.
+Simon;SOAT;Simon Restrepo;1025641405;2456789098;$180.000;Activo;5/05/2025 6:33:24 p. m.
